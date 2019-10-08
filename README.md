@@ -31,7 +31,7 @@
 
 [Link a Ejercicio para asistencia](Trabajo_asistencia/)
 
-[Link a Ejercicio para asistencia](Domino/)
+[Link a Domino](Domino/)
 
 
 
