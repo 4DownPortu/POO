@@ -28,6 +28,17 @@ namespace Duracion
             Console.WriteLine("Los minutos son:"+minutos);
             Console.WriteLine("Los segundos son:"+segundos);
         }
+
+        public void converciones_segundos()
+        {
+            int Horas_segundos, Minutos_segundos;
+
+            Horas_segundos=segundos/3600;
+            Minutos_segundos=segundos/60;
+
+            Console.WriteLine("Los segundos en horas son:"+Horas_segundos);
+            Console.WriteLine("Los segundos en minutos son:"+Minutos_segundos);
+        }
     }
     class Program
     {
@@ -36,6 +47,7 @@ namespace Duracion
             Duracion a= new Duracion(2,15,12);
             Duracion b= new Duracion(00,02,15);
             Duracion c= new Duracion(2,00,10);
+            Duracion d= new Duracion(0,0,34576);
 
             a.print();
             a.conversiones();
@@ -47,6 +59,9 @@ namespace Duracion
 
             c.print();
             c.conversiones();
+            Console.WriteLine("\t");
+
+            d.converciones_segundos();
 
             
            
