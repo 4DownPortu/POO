@@ -29,6 +29,8 @@
 
 [Link a Ejercicio Actores](Actores/)
 
+[Link a Ejercicio Actores](Pase-de-parametros/)
+
 [Link a Ejercicio para asistencia](Trabajo_asistencia/)
 
 [Link a Ejercicio Domino](Domino/)
