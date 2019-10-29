@@ -29,7 +29,7 @@
 
 [Link a Ejercicio Actores](Actores/)
 
-[Link a Ejercicio Actores](Pase-de-parametros/)
+[Link a Ejercicio Pase de parametros](Pase-de-parametros/)
 
 [Link a Ejercicio para asistencia](Trabajo_asistencia/)
 
