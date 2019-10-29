@@ -37,6 +37,8 @@
 
 [Link a Ejercicio Duracion](Duracion/)
 
+[Link a Ejercicio Herencia](Herencia/)
+
 
 
 
