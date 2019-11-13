@@ -39,6 +39,10 @@
 
 [Link a Ejercicio Herencia](Herencia/)
 
+[Link a Ejercicio Alumnos](Alumnos/)
+
+[Link a Ejercicio Musico](Musico/)
+
 
 
 
