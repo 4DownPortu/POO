@@ -45,6 +45,7 @@
 
 [Link a Ejercicio Faceclon](Faceclon/)
 
+[Link a Ejercicio Errores](Errores/)
 
 
 
